@@ -254,9 +254,15 @@
     <string name="qs_footer_warnings_title">QS footer warnings</string>
     <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
 
-     <!-- Lockscreen media art -->
+    <!-- Lockscreen media art -->
     <string name="lockscreen_media_art_category_title">Media art</string>
     <string name="keygaurd_media_art_title">Show media art</string>
     <string name="keygaurd_media_art_summary">Display media art as lockscreen background</string>
     <string name="lockscreen_media_blur_title">Media art blur level</string>
+
+    <!-- SELinux Status -->
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
 </resources>
