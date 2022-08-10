@@ -244,6 +244,13 @@
      <!-- Battery Temperature -->
     <string name="battery_temp">Battery Temperature</string>
 
-     <!-- Battery health -->
+    <!-- Battery health -->
     <string name="battery_health_title">Battery health</string>
+
+    <!-- Misc category -->
+    <string name="misc_title">Misc</string>
+    
+    <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">QS footer warnings</string>
+    <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
 </resources>
